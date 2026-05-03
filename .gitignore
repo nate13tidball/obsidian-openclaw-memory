@@ -1,0 +1,4 @@
+.tmp/
+.openclaw/
+*.bak
+*.log
