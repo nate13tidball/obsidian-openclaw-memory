@@ -67,6 +67,8 @@ Capture what matters. Decisions, context, things to remember. Skip the secrets u
 
 Examples that MUST be shell scripts: git sync, file backups, API polling, health checks, log cleanup.
 
+Note: agentTurn cron jobs are fine and expected when the task genuinely requires AI reasoning (e.g. summarising emails, drafting content, making decisions). The rule is to not use agentTurn for tasks that are purely mechanical/scripting.
+
 ## External vs Internal
 
 **Safe to do freely:**

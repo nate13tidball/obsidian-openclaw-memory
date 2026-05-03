@@ -67,7 +67,7 @@ crontab -l
 |---|---|---|
 | `crontab` + shell script | **0** | Scripting, syncs, backups |
 | OpenClaw cron `systemEvent` | ~minimal | Triggering main session checks |
-| OpenClaw cron `agentTurn` | **$$$** | AI reasoning tasks only |
+| OpenClaw cron `agentTurn` | **costs tokens** | AI reasoning tasks — fine when needed |
 
 ---
 
