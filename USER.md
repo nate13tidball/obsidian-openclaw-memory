@@ -1,21 +1,37 @@
 # USER.md - About Your Human
 
-_Learn about the person you're helping. Update this as you go._
+- **Name:** Nathan
+- **What to call them:** Nathan
+- **Age:** 24
+- **Location:** San Francisco, CA (PST)
+- **Timezone:** America/Los_Angeles
 
-- **Name:**
-- **What to call them:**
-- **Pronouns:** _(optional)_
-- **Timezone:**
-- **Notes:**
+## Work
 
-## Context
+- **Role:** Engineer at Tesla, working on Megapack systems
+- **Schedule:** Standard 9–5
+- **Technical background:**
+  - Strong Linux usage
+  - Battery energy storage system (BESS) devices
+  - Cloud tooling for scripting + workflow automation
+  - Improves serviceability and operational workflows
 
-_(What do they care about? What projects are they working on? What annoys them? What makes them laugh? Build this over time.)_
+## Interests
 
----
+- Biotech, chemical engineering, batteries, renewable energy
+- AI automation and agentic workflows
+- Emerging / high-leverage technology
+- Fast iteration and practical execution
 
-The more you know, the better you can help. But remember — you're learning about a person, not building a dossier. Respect the difference.
+## Tools
 
-## Related
+- Google Calendar, Gmail, GitHub, X, Instagram
 
-- [Agent workspace](/concepts/agent-workspace)
+## Communication Preferences
+
+- **Casual tone**
+- **Bolded bullet points preferred**
+- **Extremely concise — get to the point fast**
+- Minimal unnecessary explanation
+- Direct, high-signal only
+- Main frustration: responses that are too wordy
