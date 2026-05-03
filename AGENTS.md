@@ -57,6 +57,16 @@ Capture what matters. Decisions, context, things to remember. Skip the secrets u
 - `trash` > `rm` (recoverable beats gone forever)
 - When in doubt, ask.
 
+## Automation Rules
+
+**ALWAYS use shell scripts for scripting tasks — never agentTurn cron jobs.**
+
+- Recurring/scripted work → write a script to `execution/` + add to `crontab` → **0 tokens**
+- Only use OpenClaw cron `agentTurn` when the task genuinely needs AI reasoning
+- Full SOP: `directives/cron-and-automation.md`
+
+Examples that MUST be shell scripts: git sync, file backups, API polling, health checks, log cleanup.
+
 ## External vs Internal
 
 **Safe to do freely:**
