@@ -117,7 +117,7 @@ If Gmail/gog is configured: also email the packet to Nathan.
 ## Quality Rules
 
 - NO long prose. Every field is a list of short, dense items.
-- `summary_for_voice_tutor` must be ≤150 words. It's the ChatGPT context seed.
+- `summary_for_voice_tutor` has no length cap — it's the full context seed for the tutor bot. Be exhaustive and specific. Include exact values, mechanisms, edge cases, and anything the tutor needs to teach this accurately. Completeness > brevity here.
 - `socratic_questions` must push on the hardest conceptual leaps, not surface recall.
 - `common_misconceptions` must be specific (not "people often misunderstand X" — state the actual wrong belief).
 - `feynman_prompts` should force explanation to a 10-year-old or a non-specialist.
